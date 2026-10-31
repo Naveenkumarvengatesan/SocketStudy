@@ -284,5 +284,21 @@ if __name__ == "__main__":
     main()
 ~~~
 
+OUTPUT:
+
+CLIENT:
+
+~~~
+<img width="957" height="328" alt="Screenshot 2026-10-31 142747" src="https://github.com/user-attachments/assets/1a5e8c62-46ab-4df1-b27e-456c05a556f9" />
+
+~~~
+
+SERVER:
+
+~~~
+<img width="966" height="232" alt="Screenshot 2026-10-31 142833" src="https://github.com/user-attachments/assets/6d497ade-58b2-466c-a501-d3cde15ce5ef" />
+
+~~~
+
 ## Result:
 Thus the study of Socket Programming Completed Successfully
